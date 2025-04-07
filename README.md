@@ -10,3 +10,5 @@ Principais recursos:
 - Ao "chutar" um valor, o usuário recebe uma dica, indicando se o número secreto é maior ou menos ao chute;
 - O usuário pode verificar seu "chute" usando o botão na tela ou simplesmente pressionando a tecla enter;
 - O código salva na memória o número de tentativas feitas pelo usuário para acertar o número secreto e exibe esse valor ao final do jogo.
+
+[Clique aqui para jogar](https://thyagoramon.github.io/jogo-do-numero-secreto/)
